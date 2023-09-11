@@ -1,4 +1,6 @@
 {
+  "version": "1.0.0",
+  "description": "Pipeline de CI com SonarCloud",
   "scripts": {
     "start": "node index.js",
     "test": "jest --coverage"
