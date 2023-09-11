@@ -11,3 +11,9 @@ Nesse desafio, iremos consolidar os conhecimentos em relação a criação de um
     Suba essa aplicação para um repositório público no Gthub e ative o status check para que seja possível dar o merge apenas se a aplicação passar na pipeline de CI e também se a aplicação passar no quality gate do SonarCloud.
     Crie uma Pull Request (PR) realizando todo o processo.
     Informe o link da PR abaixo para que possamos corrigir.
+
+## Tests
+
+```
+npx jest --coverage
+```
