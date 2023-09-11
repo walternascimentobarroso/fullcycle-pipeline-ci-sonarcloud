@@ -17,5 +17,6 @@ Nesse desafio, iremos consolidar os conhecimentos em relação a criação de um
 ## Tests
 
 ```
-npx jest --coverage
+npm i
+npm jest --coverage
 ```
