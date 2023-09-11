@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=walternascimentobarroso_fullcycle&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=walternascimentobarroso_fullcycle)
+
 # Desafio Pipeline de CI com SonarCloud
 
 Nesse desafio, iremos consolidar os conhecimentos em relação a criação de uma pipeline de CI realizando os seguintes passos.
