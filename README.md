@@ -1,4 +1,4 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=walternascimentobarroso_fullcycle&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=walternascimentobarroso_fullcycle)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=walternascimentobarroso_fullcycle-pipeline-ci-sonarcloud&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=walternascimentobarroso_fullcycle-pipeline-ci-sonarcloud)
 
 # Desafio Pipeline de CI com SonarCloud
 
